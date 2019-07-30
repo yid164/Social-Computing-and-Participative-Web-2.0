@@ -1,0 +1,392 @@
+Sharing meaning and Mining Socal Data
+
+Semantic Web: Ontologies and Folksonomies 语义网：本体和民俗分类
+
+1. Sematic Web:
+
+	Def: it is an extension of the current web in which information is given well-defined meaning, better enabling computers and poeple to work in co-operation, it is currently a spectrum of technologies 
+
+	它是当前网络的延伸，其中信息被赋予明确的含义，更好地使计算机和人们能够合作，它目前是一系列技术
+
+
+2. Ontology (Rigid semantic, Supports reasoning, limited application)
+
+	1. In CS, Ontology provides a shared vocabulary, which can be used to model a domain 
+
+	2. A formal explict specication of a shared conceptualization 共享概念化的正式明确规范。
+
+		1. Can be ready by machines
+
+		2. Concepts and properties are explicitly defined
+
+		3. Agreed upon
+
+		4. Model of something in the world
+
+	3. Uses of Ontolgoeis
+
+		1. Share a common understanding about a domain among people and machine 在人与机器之间分享关于域的共同理解
+
+		2. Enable reuse of domain knowledge 实现领域知识的重新使用
+
+	4. Ontology Componenet 
+
+		1. Individuals
+
+		2. Classes
+
+		3. Attributes
+
+		4. Relations
+
+		5. Restrictions
+
+		6. Rules
+
+		7. Axioms
+
+		8. Events 
+
+	5. Limitation of Ontologies
+
+		An ontology always reflects a particular viewpoint, purpse or constraints (of its creater)
+
+	6. Ontology languages
+		
+		1. An ontology language is a formal language used to encode the ontology 本体语言是用于编码本体的形式语言
+
+			e.g. FOAF ontology for socal relationships
+
+	7. Tools for ontology generation 
+
+		1. Some ontology editing tools
+
+			Protégé
+
+			Neon
+
+			SWOOP ...
+
+	8. API's for ontologies
+
+		-- OWL 2
+
+		-- Apache Jena
+
+	9. Summary 
+
+		When does Ontological Classification work well
+
+			- Smaller corpus 小语料库
+
+			- Formal Categories 
+
+			- Stable entities
+
+			- Restricted entities
+
+			- Clear edges 
+
+			- Exper user/catalogers..
+		When does it not work well
+
+			- Large corpus
+
+			- Unformal categories
+
+			- Unstable entities
+
+			- Unclear edges 
+
+
+3. Folksonomies 民俗
+
+	1. Folksonony
+
+		1. Def: System of classification dervived from the practice and method of collaboratively creating and managing tags to annotate and categorize content 分类系统源自协作创建和管理标签以对内容进行注释和分类的实践和方法
+
+		2. Also called: collaborative tagging, social classification, socail indexing, and social tagging
+
+		3. A shared pool of tagged resources enhances the metadata for all users, potentially distributing the workload for metadata creation amongst may contributors 
+
+	2. Tagging System 
+
+		1. The mechanism of tag entry can have great impact on tagging system behavior 标记条目的机制可能对标记系统行为产生很大影响。
+
+	3. Tagging System Disgn 
+
+		1. Aggregation: 
+
+			- Bag Model
+
+			- Set Model
+
+		2. Type of object
+
+			- Web Pages
+
+			- Bibliographic materil 
+
+			- Blog posts
+
+			- Image
+
+			- Users
+
+			- Video (Youtube)
+
+			- Audio objects
+
+			- Physical locations or events
+
+	4. Positives:
+
+		1. Selfish users tag for themselve
+
+		2. Easy to use
+
+		3. Tags can express different semantics dimensions: content, contxt, pedagogical,...
+
+		4. No standard
+
+		5. Tag sharing lead to social quality control  
+
+		6. Flat list of tags, font size ..
+
+		7. Allows easy search by tag
+
+	5. Problem:
+
+		1. The machine does not know the semantics of the document without knowing how the tags relate to each other
+
+	6. Features of Solutions
+
+		1. User centered 
+
+		2. Easy for the users
+
+		3. The AI happens in the background, the user is not aware of it
+
+		4. Simplicity and ease of use preserved, advantages of ontology added
+
+
+
+
+Mining Social Data
+
+1. Social Data
+
+	1. Def: vast amount of user-generated content created on social media everyday
+
+		Data: Raw facts, statistics collected together for referece or analysis
+
+		Social data are mostly user-generated content which is noisy, distrubuted, unstructured and dynamic 
+
+		Social data refers to data created and voluntarily shared by people
+
+	2. Why is important 
+
+		- Advertising and marketing
+
+		- Products are more customised
+
+		- Market research 
+
+		- Customer Experience
+
+		- Brand loyalties
+
+		...
+
+	3. Benefits
+
+		1. Sociology
+
+		2. Business
+
+		3. Psychology
+
+		4. Enterainment
+
+		5. Politics
+
+		6. News
+
+		7. Health 
+
+		...
+
+	4. Challenges
+
+		1. Big Data:
+
+			1. 3Vs: Volumn, Velocity, Variety 
+
+		2. Dynamic
+
+			1. Changed Frequently and update over short period of time
+
+		3. Noisy and relational 
+
+2. Data Mining
+	
+	1. Methods
+
+		1. Graph analysis
+
+			1. Degree
+
+			2. Closeness
+
+			3. Betweeness
+
+		2. Text mining
+
+			1. Basic Information Retrieval principles
+
+			2. Sentiment analysis
+
+			3. Word cloud 
+
+	2. Models
+
+		1. Bag of words model
+
+			A given texxt is represented as a bag of words, disregarding word order but keeping multiplicity 
+
+		2. Vector Space Model
+
+			A text is represented as a feature vector. Each word is a feature and the feature value is the word's weight 
+
+			Weight:
+
+				- Term occurrence
+
+				- Term-Frequency 
+
+					count of term in document / number of words in the doc
+
+				- Inverse document freqency 
+
+					IDF(t) = log (total number of document / number of documents conaining term t)
+
+				- TF-IDF
+
+					TF * IDF(t)
+
+	3. Data Mining
+
+		1. Def
+
+			1. Data mining refers to the process of extracing novel and actionable patterns from data
+
+			2. New, hidden or latent patterns
+
+			3. Not just about retrieving information from a database
+
+			4. Involves methods of ML, IR, SA
+
+			5. Data mining is also known as knowledge discovery in database (KDD)
+
+	4. Algorithms
+
+		1. Supervised Learning / Classification
+
+			Requires some priori knowledge of the data
+
+		2. Unsupervised learning / Clustering
+
+			Groups/clusters the data into similar patterns without knowledge of labels of those patterns
+
+			-- Used in Recommendation system
+
+			-- More precise and much faster
+
+		3. Anomaly Detection 
+
+			outlier detect 异常检测
+
+		4. Evaluation
+
+			Accuracy = # of correctly classified test sample / total number of test sample
+
+			Precision = # of relevant results that were ranked or retrived / # of retrieved result
+
+		    Recall = # of relevant reusults that were ranked or retrieved / # of relevant results
+
+		    Fl Score = 2 * precision * recall / (precision + recall)
+
+3. Application
+
+	- User & Group profiling
+
+	- Recommendation system
+
+	- Sentiment analysis
+
+	- Identifying influential nodes
+
+	- Predicing users churn in social media 
+
+4. Problems
+
+	Privacy
+
+	Ethical Issue
+
+	Bias
+
+	Data Ownership
+
+	Identify theft 
+
+5. Summary:
+
+	Valueable info is hidden in vast amounts of social media data
+
+	possibility of mining this data to discover actionable knowledge that is otherwise difficult to find
+
+	use of graph analysis and text mining
+
+	Mining can be done using clustering, anomaly detection, classification 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

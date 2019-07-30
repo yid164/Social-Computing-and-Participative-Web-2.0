@@ -1,0 +1,43 @@
+Course Objective:
+	
+	Address the questions:
+		
+		1. What is the right way to design social computing system?
+		
+		2. What sense can be made out of all the data people leave behind?
+
+		3. How to personalize and recommend applications to help people deal with the hugh amount of information?
+
+	Be able to:
+
+		1. Understand important features of social computing applications
+
+		2. Design and prototype new social computing applications
+
+		3. Analyze data produced by users in social media
+
+		4. Understand the research issues in this field 
+
+	Topics:
+
+		1. Analysis, aggregation and visualization of social data and social networks 
+
+		2. Understanding motivations for contributing to and participating in social computing system 
+
+		3. Design of community infrastructures:
+
+			1. Managing engagement and motivating participation
+
+			2. behavior change and persuasion tools
+
+			3. Recommendation systems
+
+			4. Trust and reputation mechanisms 
+
+			5. Crowdsourcing / semantics
+
+		4. Theories of social and self-organizing system:
+
+			1. Analytical, economic and behavioral theories
+
+			2. Crowdsourcing and human-centered computing 

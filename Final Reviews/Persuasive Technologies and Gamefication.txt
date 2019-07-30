@@ -1,0 +1,187 @@
+Persuasive Technologies and Gamefication 有说服力的技术和游戏化
+
+1. Human Behaviour and Behaviour Change
+
+	1. Def: Used to describe a person's action, conduct, attitude, habits, values, emotions
+
+	2. Changing Human Behaviour
+
+		E.g. 
+
+			- Personal: Acheievenment of goals
+
+			- Economic: - Prevent collsive behaviour among bussiness
+
+			- Social/Community: Recycle, water use 
+
+			- Organizational 
+
+		Motivation:
+
+			Theories of Motivations from psychology:
+
+			- Maslow's
+
+			- Self Determination Theory
+
+			- Cognitive Evaluation Theory
+
+			- Social Cognitive Theory
+
+			- Social Comparison Theory
+
+			- Operant Thoery 
+
+2. Persuasion 
+
+	1. Def: An attempt to change attitudes or behaviors or both (without using coercision or deception) -- BJ Fogg
+
+	2. Cialdini's Principles of Persuasion
+
+		1. Reciprocation 回报
+
+		2. Consensus: 协商一致
+
+		3. Commitment: 承诺
+
+		4. Authority: 权力
+
+		5. Liking: 喜欢
+
+		6. Scaricity: 稀缺
+
+
+3. Persuasion Techonology
+
+	1. Def: Any interactive computing system designed to change people's atttudes and behaviours -- BJ Fogg
+
+	2. Computer as persuasive technology
+
+		1. Why we use computer as a persuasive techonology?
+
+			1. More persistent: 更持久
+
+			2. Easy Scalability: 易于扩展
+
+			3. Greater Anonymity: 更大的匿名性
+
+			4. Ubiquitous: 无处不在
+
+	3. Types of Persuasive Technology
+
+		1. Microusuasion 
+
+			- Micro Level
+
+			- Reason other than persuasion but with the use of persuasive element 
+
+				e.g. Ebay feedback system
+
+		2. Marcrosuasion 
+
+			- Macro Level
+
+			- Persuasive elements are used purposely for motivating and persuading people 
+
+				e.g. Stop moking, stop depression 
+
+	4. Strategies
+
+		1. BJ Fogg Model
+
+			Sufficient Motivation
+
+				Sensation 
+
+				Anticipation
+
+				Belonging 
+
+			Ability to perform Target Behaviour
+
+				Make the behaviour easy to do
+
+			Trigger to enable the behaviour
+
+				Reminds a person to perform a target behaviour
+
+			Which means: Motivation + Ability + Trigger = Behaviour
+
+		2. 42 strategies
+
+		3. Persuasive tools
+
+			Reduction
+
+			Conditioning
+
+			Surveillance
+
+			Tunneling
+
+			Self-Monitoring
+
+			Suggestion
+
+			Customization and Tailoring 
+
+4. Applications of Persuasive Technology 
+
+	1. Persuasive Systems design (PSD)
+
+		1. Primary Task support: aid users in performing basic task
+
+		2. Dialog Support: provide feedback to users
+
+		3. Credibility Support: System should be credible 
+
+		4. Social Support: Take advantage of social inluence 
+
+	2. Leveraging Games for behaviour change:
+
+		1. Reality Game
+
+		2. Serious Game
+
+		3. Persuasive Game
+
+		4. Gamification 
+
+5. Gamification
+
+	1. Def: use of game design elements in non-game context - deterding
+
+	2. Game Elements
+
+		Mechanics and Dynamics
+
+	3. One-size-fits-all
+
+		1. People are motivated by different things:
+
+			Level
+
+			Orientation
+		2. Biggest challenge of meaningful gamification 
+
+		3. A "one-size-fits-all" gamified/persuasive system cannot motivate everyone b/c people are driven by different needs and desires
+
+6. Personalization 
+
+	1. E.g. 
+
+		1. Personal profile
+
+		2. Context
+
+		3. Culture
+
+		4. Psychological 
+
+		5. Goals
+
+7. Related Study
+
+8. Discussion
+
+9. Referece 

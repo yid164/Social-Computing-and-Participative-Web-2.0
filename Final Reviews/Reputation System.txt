@@ -1,0 +1,163 @@
+Reputation System 
+
+
+1. Trust
+
+	1. Def
+
+		As attitudes, beliefs, probabilities, expectations, and honesty 
+
+	2. Characteristics
+
+		1. In computer mediated environments, the interaction between human beings or agents present characteristics
+
+		2. Subjective of trust
+
+		3. Transitiveity of Trust
+
+		4. Trust is based on prior knowledge and experience
+
+		5. Trust is dynamic, it can increase or decrease over time
+
+		6. Contxt dependent and multi-faceted 
+
+	3. Categorization
+
+	4. Why Trust
+
+		1. Commercial online system, trust plays an imporant role. 
+
+		2. Allows to model the capability, ...
+
+2. Reputation 信誉
+	
+	1. Reputation
+
+		1. Reputation is the general public's (group) opinion about a person/agent/item's character or standing
+
+
+	2. Centralized and decentralized Reputation System
+
+		1. Centralized person/agent reputation system 
+
+			1. Relatively simple
+
+			2. A centralized node acts as a system manager responsible for collecting feedback from transactions on both side
+
+			3. Reputation information is public and global, built by the system 
+
+			4 e.g. eBay, SPORAS
+
+		2. Decentralized Reputation System 
+
+			1. Difference from centralized reputation system
+
+				1. No centralized system manager to keep track of trust and reputation 
+
+				2. Entities build thier own trust on other
+
+				3. A lot of communication may be required among entities to exchnage info about others
+
+			2. Def: 
+
+				1. Each agent has to develop the reputation on other agents based on direct interaction 
+
+				2. They follow six steps in giving reputation
+
+					1. Send queries
+
+					2. Ask for recommendations
+
+					3. Select Provider
+
+					4. Interaction
+
+					5. Update trust
+
+					6. Update neighbors
+
+				3. They care about good resource
+
+	3. Some Examples
+
+3. Trust-based Network for Promoting Honesty in E-Marketplaces
+
+4. Trust-based community in Peer-to-Peer File Sharing System 
+
+
+
+5. Summary
+
+	1. Trust plays an important role in open and dynamic environment 
+
+		1. Trust has many definiation
+
+		2. Some characteristics: subjectivity, dynamics, context dependent, multi-faceted
+
+		3. Categorization of trust, reputation
+
+	2. Reputation System
+
+		1. Categorization and some example system 
+
+	3. A trust-based social network eletronic marketplaces
+
+		1. Centralized system, makes use of social network analysis
+
+		2. Promotes buyer and seller honesty 
+
+	4. Trust-based community formation, Comtella
+
+		1. Decentralized system 
+
+		2. A trust-based mechanism for creating communities is feasible 
+
+6. Reputation System 
+
+	1. Why? 
+
+		1. Interacting with stranger
+
+		2. Seller (Exchange partners) Vary
+
+			1. Skill
+			2. Quality
+			3. Effort
+			4. Ethics
+
+	2. Internet Reputation System 
+
+		1. Necessary to substitute for traditional seller reputation mechanisms 
+
+		2. Inform byers whether potential trading partner are trstworthy 
+
+		3. Deter opportunistic behavior 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+Social Network Analysis
+
+1. What is social network analysis
+	
+	Def: Analysis of the structure of relationships between social entities
+
+	     Precess of investigating social structures in network
+
+	     SNA uses math concepts and graph theory
+
+	     Consists of nodes and edges
+
+	Why is it important
+
+		Marketing
+
+		Crime detection
+
+		Detection of opidemics
+
+		Relationships and reputation
+
+2. Network elements
+
+	1. Edge connection between 2 node
+
+	2. Node
+
+	3. Network structure: 
+
+		Directed, undirected
+
+	4. Degress
+
+		1. Adjacency matrix
+
+			Representing edges (who is adjacent to whom) as a matrix
+
+		2. Indegree
+
+		3. Outdegree
+
+	5. Centrality 
+
+		Identifies the most important node in a graph
+
+
+3. Network properties and metrics
+
+	How far apart are they
+
+	Are some nodes more imporant due to their position in network?
+
+		1. Degree: How many people can this person reach directly
+
+		2. Betweenness: How likely is this person to be the most direct route between two people in the network
+			 经过路径最多的点
+
+		3. Closeness: How fast can this person reach everyone in the network 
+			能够最快到达目标的点
+
+4. Finding communities
+
+	1. Def
+
+		1. A community is a group of nodes in a network that are more densely connected internally than with the rest of network 
+
+		2. network divides naturally into groups of nodes with dense connections internally and sparser
+
+		3. Overlapping is allowed
+
+	2. What makes a community
+
+		1. Mutuality of ties
+
+		2. Frequency of ties among members
+
+		3. Closeness or reachability of subgroup members 
+
+	3. K-Cores
+
+		Each node within a group is connected to at least k other nodes in the group 
+
+5. Application of SNA
+
+	Movie galaxy
+
+	NodeXL

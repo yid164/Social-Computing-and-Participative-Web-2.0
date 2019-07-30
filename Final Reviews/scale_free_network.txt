@@ -1,0 +1,42 @@
+Scale Free Network
+
+1. Six degrees of separation
+	
+	1. 1967, avg mail path: 5.5
+
+	2. Watts and Strogatz: email avg path: 6.8
+
+	3. Internet: 800000000 nodes, avg = 18.59
+
+
+2. Small worlds
+
+3. Hubs and connectors
+
+4. The 80/20 Rule
+
+5. Power-laws signal self-organization
+
+6. The rich get richer
+
+7. Robust Scale Free Network 
+
+	Scale-Free network are extremely robust in case of random falures
+
+	Network resilience 
+
+		In random networks, some node failures can easily break a network into isolated, non-communicating frameworks
+
+		We can remove 80% of all nodes, and the remaining 20% will still remain connected
+
+		The key to this is the presence of hubs, removing nodes randomly is not likely to affect them, and they hold the NW
+
+8. Vulnerable Scale Free Network
+
+	Scale-Free NW are very vulnerable to targeted attacks and to cascading failures
+
+9. Spreading Viruses and Innovation
+
+10. Disease Diffusion model 
+
+11. Run-away internet 

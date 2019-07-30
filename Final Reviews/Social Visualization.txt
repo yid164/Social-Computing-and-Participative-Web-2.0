@@ -1,0 +1,136 @@
+Social Visualization 
+
+Community Awareness and Visualization 
+
+
+1. Online Communities
+
+	1. Knowledge worker's desktop
+
+	2. Collaborative project spaces 
+
+	3. Website Communities
+
+	4. Discussion Groups
+
+	5. Synchronous interaction tools
+
+	6. e-learning spaces
+
+	7. Expertise exchanges
+
+	8. Knowledge bases 
+
+2. What is Visualization
+
+	1. Information Visualization 
+
+		refers to the techniques used to communicate data or information by encoding it as visual object 
+
+	2. Knowledge Visualization
+
+	3. Social Visualization 
+
+		A visual representation of infromation from which the presence, activeities, and other characteristics o members of a social collective may be inferred, and, by extension, can provide the basis for making inferences about the activites and characteristics of the group as a whole
+
+3. Why Visualization
+
+	1. Capture Social Intelligence 
+
+		1. Organize vast amount of information 
+
+		2. Pattern discovery --> Knowledge 
+
+	2. Promote Participation 
+
+		1. Provide incentives; reputation, competition 
+
+	3. Support Social Interaction
+
+		1. Graph interface 
+
+		2. Creative Interaction by Users
+
+4. Social Intelligence
+	
+	Individually: 
+
+		1. Ability to get along well with others, and to cooperate with them
+
+		2. Involves a certain amount of self-insight and a consciousness of one's own perception and reaction pattern 
+
+		3. How poeple operate to determine an individual's reputation, social status, roles...
+
+	Grouply:
+
+		1. Groups of people manage to produce coherent behaviour directed towards individual or collective ends
+
+		2. Visualization makes the coherent behaviour clearly visible 
+
+5. Cues are needed in social interaction 
+
+	1. Social coordination and coooperation 
+
+	2. Social Norms for Coordination 
+
+
+6. How to design online systems that support social intelligence? 
+
+	Social Proxies
+		• A shared visualization of people and their activities
+		• Shows online interactions with minimum amount of graphical features
+		• Should be visible to all members of the system
+
+7. Visualization Design Principles
+
+	1. Every one sees the same thing; No customization 
+
+		Shared knowledge
+
+		Everyone is held socially accountable for their actions
+
+		Leads to useful socail phenomena 
+
+	2. Portray action, not interpretation 
+
+		System can be used in unexpected way
+
+		minimizing designer's interpretation, encourage user creativities
+
+		Users understand the system better
+
+	3. Social Visualization should allow deception 骗局
+
+	4. Support micro/macro reading
+
+	5. Ambiguity is useful, suggest rather than inform
+
+	6. User a third-person point of view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

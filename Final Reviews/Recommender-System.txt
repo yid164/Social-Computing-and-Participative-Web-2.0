@@ -1,0 +1,85 @@
+Recommender-System
+
+1. Motivation
+
+	- Too much user generated content
+
+	- Online stores with too much inventory
+
+	- Too many types of ads
+
+2. Purpose of Recommender System 
+
+	To assist user to find what they want; help them make correct decisions according to needs, interests, and goals 
+
+3. Classic Algorithms for Recommendation 
+
+	1. Featrue based (content based)
+
+		1. def: based on the commonalities among the items that user has rated before
+
+		2. General Idea: Given a set of items that user has shown interests before or the preferences explicityly specified by user, find the most similar items that user might be interested in now
+
+		3. Advantage:
+
+			1. takes into account features of items, easy to explain why a certain item is recommeeded 
+
+			2. Similarity of items can be processed offline in advance to save online computation time
+
+			3. Recommendation right away based on explicit
+
+		4. Limit:
+
+			1. overspecialization
+
+			2. Limited content analysis 
+
+			3. No wisdom of the group 
+
+	2. Collaborative filtering
+
+		1. Def: based on ratings from other users 
+
+		2. General idea:
+
+			1. Recommendation from nearest neighbors -- thoes who share the most similar interests
+
+		3. Algorithm 
+
+			1. Use statistical method to derive predictions from like-minded users or from similar item 
+
+			2. two kinds
+
+				User-to-user
+				item-to-item
+		4. Advantages
+
+			1. Content is irrelevant
+
+			2. No tagging or specified user interests 
+
+			3. Built in community for the User-to-User approach
+
+			4. The most commonly adopted technique in commercial recommender system 
+
+			5. The most studied technique in academic community 
+
+		5. Limit:
+
+			1. Lack of ratings
+
+			2. Complexity of the correlation algorithms requires doffline calculation
+
+			3. Users often do not rate the same item the same way if offered the chance to rate it again
+
+	3. Hybrid
+
+		Feature based + Collaborative filtering + Social
+
+	4. Recommendations issue
+
+		Trust issue
+
+		Privacy issue 
+
+		,,,, 

@@ -1,0 +1,153 @@
+1st Lecture Social Computing 
+
+1. Def: 
+
+	1. Social Computing: 
+		Social Computing is an area of CS which uses social science insights and socail interaction data to desgin socail applications and infrastructures that allow users to interact, build realtionships, communiciate, coolaborate, share, self-organize, and self-improve
+
+	2. Social Media:
+		Online tools that allow people, companies, and other organizations, including .... to create, share, exchange information ...
+
+
+2. Social Computing vs. Computational Socail Science 
+	
+	Social Science (Theory) --> Socail Computing <--> Clients 
+
+
+3. Social Science
+
+	1. Analyzing the interactions in online communities
+
+	2. Socail phenomena from real communities can be observed in online communities 
+
+
+4. Socail computing as a field of computer Science
+	
+	Social computing evolved as a branch of CS that designs ways of interacting and collaborating on the web
+
+
+5. Human Behaviour
+	
+	def: an individual's habit, decisions, courses of actions, goal-setting ...
+
+	change of it:
+
+		-- setting the enviornment so that it supports, cues, triggers the desired behaviour
+
+		-- motivating people to certain thing
+
+	Theories of Motivation from Psychology: Internal needs-based and external-reward based
+
+		-- Maslow' ...
+
+6. Persuasive Tech 说服力的科技
+
+	7 persuasive strategies
+
+		1. Reduction
+
+			one-click purchase
+
+		2. Tunneling 
+
+			sequence of steps to install
+
+		3. Customization and Tailoring
+
+			"Welcome ...  not ...?"
+
+		4. Suggestion
+
+			"Help"
+
+		5. Self-monitoring
+
+			pedometer
+
+		6. Surveillance
+
+			监控
+
+		7. Conditioning 
+
+			reward/points after ...
+
+7. Behavioral Econimics
+
+	1. Why do people behave irrationally / altruistically 利他行为
+
+		cognitive biases and stereotypes 认知偏见和刻板印象
+
+	2. Money-economy vs. social norms
+
+		reciporcation (immediate, delayed, concrete, generalized)
+
+		gift ecomies: Open source, Wiki
+
+8. Socail Psychology to guide social computing app designers 
+
+	1. How to motivate people to engage and contribute 
+
+		Theories can explain observed behaviour
+
+		Social Comparson theory
+
+		Common identity theory 
+
+		Common bond theory 
+
+9. Business/Organizational Studies
+
+	1. Smart Crowds
+
+	2. How do groups make decisions?
+
+		1. 4 feaatures
+
+			1. diversity 多样性
+
+			2. decentralization 权利下放
+
+			3. independence 独立
+
+			4. Aggregation 聚合
+		
+		2. When some of these conditions are not fulfilled
+
+			1. Cascades
+
+			2. Social Morms
+
+			3. Group think
+
+		3. Cascades can be good or bad
+
+10. Personalization and Recommender System
+	
+	1. Help user find relevant content
+
+	2. User Modeling
+
+		1. Mine social data to create profiles of user demographics, preferences, interests, context
+
+		2. Adaptation / Personalization to filter away content that doesn't match the user profile
+
+		3. Privacy concerns: Who owns the data? Who can access it? What can they do with it? 
+
+
+11. How are cohesive groups different from wise crowds?
+	
+	1. Consensus
+
+
+
+
+
+
+
+
+
+
+
+
+
