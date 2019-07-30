@@ -1,0 +1,16 @@
+Design a social meeting space to serve a particular group for particular purpose
+Storyboard showing the dynamic of its use from beginning to end
+	how one logs in
+	how transitions occurs ...
+	
+Study Forum for University Students 
+
+include:
+	1. motivation for creating this space （为啥）
+		
+	2. Describe the intended audience (目标受众)
+	3. main engagement strategies you plan to apply and why they would work
+	4. storyboard, show the usage flow for each functionality from beginning to end
+	
+	
+	
